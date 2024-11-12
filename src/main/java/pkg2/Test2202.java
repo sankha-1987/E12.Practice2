@@ -7,5 +7,4 @@ public class Test2202 {
 		System.out.println("statement - 2202");
 
 	}
-
 }
